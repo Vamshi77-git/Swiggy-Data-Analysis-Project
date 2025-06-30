@@ -53,3 +53,6 @@ This project involves analyzing and cleaning the dataset provided by Swiggy. Swi
 
 ## 💾 Storing Cleaned Data
 - After cleaning and formatting, store the processed data back into the system for further use.
+
+## Data Visualization
+![image] 
